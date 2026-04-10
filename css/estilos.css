@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 20px;
+}
+
+.bordes-con-color-de-letra{
+
+    color: #000000;
+
+    border-bottom: 2px solid rgb(0, 0, 0);
+
+
+}
+header{
+    
+    background-color: black;
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+}
+
+main{
+    align-items: center;
+    align-content: center;
+}
